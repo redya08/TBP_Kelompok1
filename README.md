@@ -7,3 +7,5 @@ Anggota:
 1.  Apriliadna Shindya Salasa (M0722016)
 2.	Bradly Shalom Sitompul 		(M0722026)
 3.	Restu Arundya		         	(M0722066)
+
+streamlit: https://tbpkelompok1-x92vsjjtekvyk5s5grwfcg.streamlit.app/
